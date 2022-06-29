@@ -6,10 +6,10 @@ messagerie avec KAFKA, un service de Stream processing avec Kafka Streams et un 
 ---------------
 
 1. Mettre en place les micro-services 
+
 1.1 Customer-Service
 
-![customer-service](https://user-images.githubusercontent.com/102171461/176035389-a3da9a84-b686-472a-bf52-cc828960bea5.png)
-
+![image](https://user-images.githubusercontent.com/102171461/176514294-72a3e98c-2f60-4a8d-bc99-463bbd488426.png)
 1.2 Inventory-Service
 
 ![product-service](https://user-images.githubusercontent.com/102171461/176035964-f2e4f8fb-c029-46e6-834f-6f0129015fa4.png)
