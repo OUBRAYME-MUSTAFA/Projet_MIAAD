@@ -1,7 +1,6 @@
 # Projet_MIAAD
 
- L’objectif est de créer un système distribué basé sur les micro-services permettant de gérer les factures des clients en utilisant la
-même architecture que vous avez déjà développé auparavant en y intégrant un système de sécurité basé sur Keycloak, Un Bus de
+ L’objectif est de créer un système distribué basé sur les micro-services permettant de gérer les factures des clients en y intégrant un système de sécurité basé sur Keycloak, Un Bus de
 messagerie avec KAFKA, un service de Stream processing avec Kafka Streams et un service de Batch Processing avec Spring Batch.
 ---------------
 
@@ -12,7 +11,7 @@ messagerie avec KAFKA, un service de Stream processing avec Kafka Streams et un 
 ![image](https://user-images.githubusercontent.com/102171461/176514294-72a3e98c-2f60-4a8d-bc99-463bbd488426.png)
 1.2 Inventory-Service
 
-![product-service](https://user-images.githubusercontent.com/102171461/176035964-f2e4f8fb-c029-46e6-834f-6f0129015fa4.png)
+![image](https://user-images.githubusercontent.com/102171461/176515571-f6de5a9a-0b1e-40ed-bd08-e32ed8b32d01.png)
 
 1.3 Billing-Service
 
